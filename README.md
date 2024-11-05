@@ -1,6 +1,6 @@
 # Diabetes Diagnostic Tool 🩺
 ## Live Demo 🚀
-https://sugar-sense.streamlit.app/
+[Live Link](https://diabetes-diagnosis.streamlit.app/)
 
 Welcome to the **Diabetes Diagnostic Tool**, a comprehensive application designed to predict the likelihood of diabetes using various health parameters. This tool leverages multiple AI models to provide accurate predictions, making it an essential resource for anyone interested in health and wellness.
 

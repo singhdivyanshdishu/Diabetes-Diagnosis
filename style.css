@@ -1,0 +1,18 @@
+.block-container {
+    padding-top: 3rem;
+}
+
+.stTabs [data-baseweb="tab-list"] button [data-testid="stMarkdownContainer"] p {
+font-size:26px;
+font-weight:500;
+}
+
+.stTabs [data-baseweb="tab-list"] {
+    display: flex;  /* Use flexbox to arrange tabs */
+    justify-content: space-between; 
+}
+
+div[data-baseweb="select"] > div {
+    /* background-color: #FD6C78; */
+    border: 2px solid #F53E4D;
+}
